@@ -2,10 +2,12 @@ zhang haoxuan
 nb
 lih
 error
-<<<<<<< HEAD
 fenzhi
 master
-=======
 fenzhi 
+<<<<<<< HEAD
 >>>>>>> feature1
 mas
+=======
+dev
+>>>>>>> dev
